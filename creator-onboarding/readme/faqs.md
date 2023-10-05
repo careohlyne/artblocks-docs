@@ -139,7 +139,7 @@ For questions related to your application, please post your inquiry in #artist-a
 
 ### What are the general standards for achieving curation status? 
 
-The Curated Collection is a group of projects that pushes the boundaries of Generative Art. A project in the Curated Collection covers new territory using code that employs inventive, never-before-seen techniques to support an original intention and concept. Board members look for collections that evoke emotional, intellectual, and conceptual qualities through aesthetics while sustaining the viewer’s interest.
+The Curated Collection includes projects that have been selected by Art Blocks’ Curation Board for their world-class innovation, technical rigor, and aesthetic beauty. A project in the Curated Collection covers new territory using code that employs inventive, never-before-seen techniques to support an original intention and concept. Board members look for collections that evoke emotional, intellectual, and conceptual qualities through aesthetics while sustaining the viewer’s interest.
 
 ### Are rarities judged as a metric for curation?
 
